@@ -1,0 +1,3 @@
+# ignore specific files and directories 
+dist
+webpack.config.js

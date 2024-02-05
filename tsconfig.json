@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "target": "ES2015",
+    "module": "ESNext",
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "removeComments": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "strictFunctionTypes": false,
+    "strictNullChecks": false,
+    "typeRoots": ["node_modules/@types", "src/shared/types/images.d.ts"]
+  },
+  "include": ["./src/**/*", "@type", "/src/pages/test.tsx"]
+}
