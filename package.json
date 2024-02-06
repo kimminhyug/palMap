@@ -8,6 +8,7 @@
   },
   "description": "Pal World Map",
   "devDependencies": {
+    "@types/react": "^18.2.55",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
     "browserify-zlib": "^0.2.0",
@@ -31,7 +32,7 @@
     "typescript": "^4.6.4",
     "webpack": "^5.36.1",
     "webpack-cli": "^4.6.0",
-    "webpack-dev-server": "^3.11.2",
+    "webpack-dev-server": "^4.15.1",
     "webpack-merge": "^5.7.3"
   },
   "license": "MIT",

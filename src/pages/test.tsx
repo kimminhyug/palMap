@@ -40,7 +40,6 @@ export const Test = (): React.ReactElement => {
     });
   }, [map]);
 
-  // eslint-disable-next-line @typescript-eslint/no-unsafe-return
   return (
     <div style={{ width: '100%', height: '100%' }}>
       <div ref={mapContainer} className="map-container" />
