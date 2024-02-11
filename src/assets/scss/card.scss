@@ -1,3 +1,9 @@
+.d-f {
+  display: flex;
+}
+.g-3 {
+  gap: 3px;
+}
 // blue elemental #7BD3EA
 .card-container {
   // background: radial-gradient(#7BD3EA);
@@ -23,5 +29,23 @@
 .card-contents {
   height: auto;
 }
-
+.card-element {
+  position: absolute;
+}
+.card-header {
+  padding: 3px;
+  min-height: 52px;
+}
+.card-name {
+  width: 100%;
+  align-self: center;
+  text-align: center;
+  font-size: 24px;
+}
+.card-job-container {
+  display: flex;
+  flex-wrap: wrap;
+  .card-job {
+  }
+}
 // radial-gradient(farthest-side at -15% -14% , #7bd3ea, transparent)
