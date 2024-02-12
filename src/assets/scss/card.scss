@@ -6,6 +6,8 @@
 }
 // blue elemental #7BD3EA
 .card-container {
+  display: flex;
+  flex-direction: column;
   // background: radial-gradient(#7BD3EA);
   width: 20vw;
   height: 80%;
@@ -27,7 +29,8 @@
   }
 }
 .card-contents {
-  height: auto;
+  height: 100%;
+  text-align: center;
 }
 .card-element {
   position: absolute;
@@ -45,7 +48,10 @@
 .card-job-container {
   display: flex;
   flex-wrap: wrap;
+  min-height: 35%;
+  align-items: center;
   .card-job {
+    width: 5vw;
   }
 }
 // radial-gradient(farthest-side at -15% -14% , #7bd3ea, transparent)
