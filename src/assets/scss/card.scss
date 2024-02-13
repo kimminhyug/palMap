@@ -8,11 +8,14 @@
 .card-container {
   display: flex;
   flex-direction: column;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   // background: radial-gradient(#7BD3EA);
   width: 20vw;
+
   height: 80%;
   // background: radial-gradient(ellipse at top, #7bd3ea, transparent);
-  border: 1px solid;
+  // border: 1px solid;
   // border-radius: 20px;
 
   // border-image: linear-gradient(to right, #fbfcb9be, #ffcdf3aa, #65d3ffaa);
