@@ -97,17 +97,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -213,22 +213,22 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       }
@@ -334,12 +334,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -445,27 +445,27 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 1,
         "type": "medicine_production"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -571,7 +571,7 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 1,
         "type": "kindling"
       }
@@ -677,17 +677,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 1,
         "type": "watering"
       }
@@ -793,17 +793,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 1,
         "type": "generating_electricity"
       }
@@ -909,27 +909,27 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -1035,7 +1035,7 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 1,
         "type": "kindling"
       }
@@ -1141,22 +1141,22 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 1,
         "type": "watering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 1,
         "type": "cooling"
       }
@@ -1262,27 +1262,27 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 2,
         "type": "watering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       }
@@ -1388,7 +1388,7 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 1,
         "type": "generating_electricity"
       }
@@ -1494,7 +1494,7 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       }
@@ -1600,12 +1600,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -1710,7 +1710,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -1816,7 +1816,7 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 1,
         "type": "watering"
       }
@@ -1921,17 +1921,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       }
@@ -2036,12 +2036,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -2146,17 +2146,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -2262,7 +2262,7 @@
     },
     "suitability": [
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       }
@@ -2367,7 +2367,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -2473,17 +2473,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       }
@@ -2586,12 +2586,12 @@
     },
     "suitability": [
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -2694,7 +2694,7 @@
     },
     "suitability": [
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -2800,12 +2800,12 @@
     },
     "suitability": [
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 1,
         "type": "watering"
       }
@@ -2911,7 +2911,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -3017,7 +3017,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -3123,27 +3123,27 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 1,
         "type": "medicine_production"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -3249,7 +3249,7 @@
     },
     "suitability": [
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -3355,27 +3355,27 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 2,
         "type": "medicine_production"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -3481,17 +3481,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 2,
         "type": "watering"
       }
@@ -3597,17 +3597,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -3713,22 +3713,22 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -3834,7 +3834,7 @@
     },
     "suitability": [
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -3940,12 +3940,12 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -4051,7 +4051,7 @@
     },
     "suitability": [
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -4157,7 +4157,7 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -4263,7 +4263,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       }
@@ -4369,17 +4369,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -4485,22 +4485,22 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 1,
         "type": "kindling"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       }
@@ -4606,12 +4606,12 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 1,
         "type": "medicine_production"
       }
@@ -4717,12 +4717,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 2,
         "type": "kindling"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       }
@@ -4771,17 +4771,17 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 1,
         "type": "watering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -4886,7 +4886,7 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       }
@@ -4992,17 +4992,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -5107,7 +5107,7 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       }
@@ -5213,7 +5213,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       }
@@ -5319,32 +5319,32 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 1,
         "type": "medicine_production"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       }
@@ -5450,17 +5450,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -5566,37 +5566,37 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 1,
         "type": "medicine_production"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -5702,27 +5702,27 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 2,
         "type": "medicine_production"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       }
@@ -5828,7 +5828,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       }
@@ -5934,12 +5934,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 1,
         "type": "cooling"
       }
@@ -6045,12 +6045,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       }
@@ -6156,12 +6156,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 1,
         "type": "cooling"
       }
@@ -6267,12 +6267,12 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 2,
         "type": "generating_electricity"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       }
@@ -6378,7 +6378,7 @@
     },
     "suitability": [
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       }
@@ -6484,12 +6484,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 2,
         "type": "kindling"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       }
@@ -6595,12 +6595,12 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       }
@@ -6706,7 +6706,7 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 2,
         "type": "generating_electricity"
       }
@@ -6811,7 +6811,7 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 2,
         "type": "kindling"
       }
@@ -6917,17 +6917,17 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 1,
         "type": "generating_electricity"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -7030,17 +7030,17 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 3,
         "type": "handiwork"
       }
@@ -7146,12 +7146,12 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -7257,7 +7257,7 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 2,
         "type": "watering"
       }
@@ -7362,12 +7362,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       }
@@ -7473,7 +7473,7 @@
     },
     "suitability": [
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 3,
         "type": "mining"
       }
@@ -7578,17 +7578,17 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -7693,22 +7693,22 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 2,
         "type": "medicine_production"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       }
@@ -7814,22 +7814,22 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 1,
         "type": "kindling"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -7935,12 +7935,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 1,
         "type": "kindling"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -8046,27 +8046,27 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 2,
         "type": "kindling"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 3,
         "type": "lumbering"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -8172,17 +8172,17 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 2,
         "type": "generating_electricity"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -8288,12 +8288,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 3,
         "type": "kindling"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -8398,17 +8398,17 @@
     },
     "suitability": [
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 2,
         "type": "medicine_production"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -8514,17 +8514,17 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 2,
         "type": "kindling"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 3,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -8630,27 +8630,27 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 3,
         "type": "gathering"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 3,
         "type": "handiwork"
       },
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -8756,27 +8756,27 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 3,
         "type": "medicine_production"
       },
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -8882,17 +8882,17 @@
     },
     "suitability": [
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 2,
         "type": "medicine_production"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -8998,7 +8998,7 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -9104,7 +9104,7 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 1,
         "type": "watering"
       }
@@ -9210,7 +9210,7 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 3,
         "type": "watering"
       }
@@ -9316,17 +9316,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 3,
         "type": "cooling"
       }
@@ -9432,12 +9432,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 3,
         "type": "kindling"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -9543,12 +9543,12 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 2,
         "type": "watering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -9654,7 +9654,7 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 3,
         "type": "planting"
       }
@@ -9760,27 +9760,27 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 3,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 2,
         "type": "medicine_production"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -9886,12 +9886,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 3,
         "type": "kindling"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 3,
         "type": "mining"
       }
@@ -9997,7 +9997,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -10103,17 +10103,17 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 2,
         "type": "planting"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       }
@@ -10219,22 +10219,22 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 3,
         "type": "lumbering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 4,
         "type": "transporting"
       }
@@ -10340,22 +10340,22 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 3,
         "type": "lumbering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -10461,7 +10461,7 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -10564,7 +10564,7 @@
     },
     "suitability": [
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 3,
         "type": "medicine_production"
       }
@@ -10670,22 +10670,22 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       }
@@ -10791,12 +10791,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 3,
         "type": "kindling"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 4,
         "type": "mining"
       }
@@ -10901,7 +10901,7 @@
     },
     "suitability": [
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -11007,12 +11007,12 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 4,
         "type": "mining"
       }
@@ -11118,12 +11118,12 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 3,
         "type": "mining"
       }
@@ -11226,17 +11226,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 4,
         "type": "handiwork"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 3,
         "type": "mining"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -11342,7 +11342,7 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 4,
         "type": "watering"
       }
@@ -11448,7 +11448,7 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 3,
         "type": "kindling"
       }
@@ -11554,22 +11554,22 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 3,
         "type": "generating_electricity"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -11675,22 +11675,22 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 4,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 3,
         "type": "handiwork"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 3,
         "type": "medicine_production"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       }
@@ -11796,12 +11796,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 3,
         "type": "kindling"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -11907,17 +11907,17 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 4,
         "type": "generating_electricity"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -12023,7 +12023,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -12129,12 +12129,12 @@
     },
     "suitability": [
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -12240,12 +12240,12 @@
     },
     "suitability": [
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -12351,7 +12351,7 @@
     },
     "suitability": [
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 4,
         "type": "cooling"
       }
@@ -12457,7 +12457,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 3,
         "type": "gathering"
       }
@@ -12560,7 +12560,7 @@
     },
     "suitability": [
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 1,
         "type": "cooling"
       }
@@ -12666,12 +12666,12 @@
     },
     "suitability": [
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 1,
         "type": "cooling"
       },
       {
-        "image": "/works/farming.png",
+        "image": "/jobs/farming.png",
         "level": 1,
         "type": "farming"
       }
@@ -12776,17 +12776,17 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 2,
         "type": "kindling"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       }
@@ -12891,22 +12891,22 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 1,
         "type": "cooling"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -13012,22 +13012,22 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 2,
         "type": "generating_electricity"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -13133,7 +13133,7 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -13239,17 +13239,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 1,
         "type": "mining"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -13355,22 +13355,22 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 1,
         "type": "kindling"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 1,
         "type": "handiwork"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -13476,27 +13476,27 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 1,
         "type": "medicine_production"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 2,
         "type": "transporting"
       }
@@ -13601,12 +13601,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 2,
         "type": "kindling"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 1,
         "type": "lumbering"
       }
@@ -13712,12 +13712,12 @@
     },
     "suitability": [
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 2,
         "type": "generating_electricity"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -13823,7 +13823,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       }
@@ -13928,12 +13928,12 @@
     },
     "suitability": [
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 3,
         "type": "transporting"
       }
@@ -14036,12 +14036,12 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 3,
         "type": "watering"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -14147,7 +14147,7 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 1,
         "type": "kindling"
       }
@@ -14252,12 +14252,12 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 3,
         "type": "kindling"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       }
@@ -14360,12 +14360,12 @@
     },
     "suitability": [
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 1,
         "type": "transporting"
       },
       {
-        "image": "/works/generating_electricity.png",
+        "image": "/jobs/generating_electricity.png",
         "level": 3,
         "type": "generating_electricity"
       }
@@ -14471,7 +14471,7 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 3,
         "type": "watering"
       }
@@ -14574,12 +14574,12 @@
     },
     "suitability": [
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 3,
         "type": "mining"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 3,
         "type": "cooling"
       }
@@ -14685,12 +14685,12 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 1,
         "type": "gathering"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 3,
         "type": "cooling"
       }
@@ -14796,17 +14796,17 @@
     },
     "suitability": [
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 2,
         "type": "lumbering"
       },
       {
-        "image": "/works/mining.png",
+        "image": "/jobs/mining.png",
         "level": 2,
         "type": "mining"
       },
       {
-        "image": "/works/cooling.png",
+        "image": "/jobs/cooling.png",
         "level": 2,
         "type": "cooling"
       }
@@ -14912,22 +14912,22 @@
     },
     "suitability": [
       {
-        "image": "/works/planting.png",
+        "image": "/jobs/planting.png",
         "level": 1,
         "type": "planting"
       },
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 2,
         "type": "handiwork"
       },
       {
-        "image": "/works/lumbering.png",
+        "image": "/jobs/lumbering.png",
         "level": 3,
         "type": "lumbering"
       },
       {
-        "image": "/works/transporting.png",
+        "image": "/jobs/transporting.png",
         "level": 4,
         "type": "transporting"
       }
@@ -15033,7 +15033,7 @@
     },
     "suitability": [
       {
-        "image": "/works/kindling.png",
+        "image": "/jobs/kindling.png",
         "level": 4,
         "type": "kindling"
       }
@@ -15136,7 +15136,7 @@
     },
     "suitability": [
       {
-        "image": "/works/watering.png",
+        "image": "/jobs/watering.png",
         "level": 3,
         "type": "watering"
       }
@@ -15242,17 +15242,17 @@
     },
     "suitability": [
       {
-        "image": "/works/handiwork.png",
+        "image": "/jobs/handiwork.png",
         "level": 3,
         "type": "handiwork"
       },
       {
-        "image": "/works/medicine_production.png",
+        "image": "/jobs/medicine_production.png",
         "level": 3,
         "type": "medicine_production"
       },
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 2,
         "type": "gathering"
       }
@@ -15355,7 +15355,7 @@
     },
     "suitability": [
       {
-        "image": "/works/gathering.png",
+        "image": "/jobs/gathering.png",
         "level": 4,
         "type": "gathering"
       }

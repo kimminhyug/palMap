@@ -1,3 +1,7 @@
+$elemental-water: #7bd3ea;
+$elemental-fire: #ff4545;
+$card-container-min-width: 380px;
+$card-container-min-height: 760px;
 .d-f {
   display: flex;
 }
@@ -9,10 +13,20 @@
   display: flex;
   flex-direction: column;
   border-radius: 15px;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  padding: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 15px 15px 20px $elemental-water, 15px 15px 0 5px $elemental-water;
+  &.water {
+    box-shadow: 15px 15px 20px $elemental-water, 15px 15px 0 5px $elemental-water;
+  }
+  &.fire {
+    box-shadow: 15px 15px 20px $elemental-fire, 15px 15px 0 5px $elemental-fire;
+  }
+
   // background: radial-gradient(#7BD3EA);
   width: 20vw;
-
+  min-width: $card-container-min-width;
+  min-height: $card-container-min-height;
   height: 80%;
   // background: radial-gradient(ellipse at top, #7bd3ea, transparent);
   // border: 1px solid;
@@ -23,16 +37,23 @@
   // border-
 }
 .card-character {
-  width: 90%;
-  margin: 5%;
+  width: 100%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
   height: 40%;
   img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid #b0babf;
   }
 }
 .card-contents {
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   text-align: center;
 }
 .card-element {
@@ -51,10 +72,20 @@
 .card-job-container {
   display: flex;
   flex-wrap: wrap;
-  min-height: 35%;
+  min-height: 10%;
   align-items: center;
+  gap: 10px;
   .card-job {
-    width: 5vw;
+    display: flex;
+    align-items: center;
+    padding: 3px;
+    flex-grow: 1;
+    // border: 1px solid #b0babf;
+    border-radius: 10px;
+    span {
+      display: inline-block;
+      height: 100%;
+    }
   }
 }
 // radial-gradient(farthest-side at -15% -14% , #7bd3ea, transparent)
