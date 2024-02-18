@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Job } from './job/job';
 
 const JobNames = [
@@ -31,33 +31,47 @@ const JOB_IMAGES = {
 };
 const imageSize = 48;
 export const Card = ({ pal }: { pal: IPalInfo }): React.ReactElement => {
+  const [flipStatus, setFlipStatus] = useState(false);
+  const toggleFlip = () => {
+    console.log(flipStatus);
+    setFlipStatus((prev) => !prev);
+  };
   return (
     <>
-      <div className={`card-container ${pal.types[0]}`}>
-        <div className="card-header d-f">
-          <div className="card-element">
-            {pal.types.map((type, index) => {
-              return (
-                <>
-                  {/* css 테스트 */}
-                  <img
-                    key={type}
-                    src={`/elemental/${type}.png`}
-                    style={{ position: 'absolute', left: imageSize / index / 2 }}
-                  />
-                </>
-              );
-            })}
+      <div className={`card ${pal.types[0]}`} onClick={toggleFlip}>
+        <div className={`card-container  ${flipStatus ? 'disable' : ''}`}>
+          <div className="card-header d-f">
+            <div className="card-element">
+              {pal.types.map((type, index) => {
+                return (
+                  <>
+                    {/* css 테스트 */}
+                    <img
+                      key={type}
+                      src={`/elemental/${type}.png`}
+                      style={{ position: 'absolute', left: imageSize / index / 2 }}
+                    />
+                  </>
+                );
+              })}
+            </div>
+            <div className="card-name">{pal.name}</div>
           </div>
-          <div className="card-name">{pal.name}</div>
-        </div>
-        <div className="card-character">
-          <img src={pal.image} />
-        </div>
-        <div className="card-contents">
-          <Job jobs={pal.suitability} />
+          {/* front */}
+          <div className="show">
+            <div className="card-character">
+              <img src={pal.image} />
+            </div>
+            <div className="card-contents">
+              <Job jobs={pal.suitability} />
 
-          <div className="card-description">{pal.description}</div>
+              <div className="card-description">{pal.description}</div>
+            </div>
+          </div>
+          {/* back */}
+          <div className={`info ${flipStatus ? 'show' : ''}`}>
+            <div className="card-b">i am back</div>
+          </div>
         </div>
       </div>
     </>

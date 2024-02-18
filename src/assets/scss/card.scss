@@ -9,7 +9,7 @@ $card-container-min-height: 760px;
   gap: 3px;
 }
 // blue elemental #7BD3EA
-.card-container {
+.card {
   display: flex;
   flex-direction: column;
   border-radius: 15px;
@@ -89,3 +89,23 @@ $card-container-min-height: 760px;
   }
 }
 // radial-gradient(farthest-side at -15% -14% , #7bd3ea, transparent)
+
+.card-container {
+  position: relative;
+  backface-visibility: hidden;
+
+  transition: all 0.5s;
+  transform-style: preserve-3d;
+  // &.card {
+  &.disable {
+    transform: rotateY(180deg);
+  }
+  // }
+  & .info {
+    transform: rotateY(180deg);
+
+    &.show {
+      transform: rotateY(0deg);
+    }
+  }
+}
