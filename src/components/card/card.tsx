@@ -32,6 +32,7 @@ const JOB_IMAGES = {
 const imageSize = 48;
 export const Card = ({ pal }: { pal: IPalInfo }): React.ReactElement => {
   const [flipStatus, setFlipStatus] = useState(false);
+
   const toggleFlip = () => {
     console.log(flipStatus);
     setFlipStatus((prev) => !prev);

@@ -4,6 +4,7 @@ import * as ReactDOM from 'react-dom';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { Test } from 'pages/test';
 import { Card } from 'components/card/card';
+import { Grid } from 'components/card/grid';
 const sampleWater = {
   id: 10,
   key: '010',
@@ -242,7 +243,8 @@ const sampleFire = {
 ReactDOM.render(
   <React.StrictMode>
     {/* <Test /> */}
-    <div
+    <Grid />
+    {/* <div
       style={{
         display: 'flex',
         gap: 50,
@@ -250,7 +252,7 @@ ReactDOM.render(
     >
       <Card pal={sampleWater} />
       <Card pal={sampleFire} />
-    </div>
+    </div> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
