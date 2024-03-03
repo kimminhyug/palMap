@@ -14,8 +14,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Lamball_menu.png/",
     "key": "001",
     "maps": {
-      "day": "/maps/001-day.png",
-      "night": "/maps/001-night.png"
+      "day": "/public/images/maps/001-day.png",
+      "night": "/public/images/maps/001-night.png"
     },
     "name": "Lamball",
     "price": 1000,
@@ -130,8 +130,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/51/Cattiva_menu.png/",
     "key": "002",
     "maps": {
-      "day": "/maps/002-day.png",
-      "night": "/maps/002-night.png"
+      "day": "/public/images/maps/002-day.png",
+      "night": "/public/images/maps/002-night.png"
     },
     "name": "Cattiva",
     "price": 1000,
@@ -251,8 +251,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f4/Chikipi_menu.png/",
     "key": "003",
     "maps": {
-      "day": "/maps/003-day.png",
-      "night": "/maps/003-night.png"
+      "day": "/public/images/maps/003-day.png",
+      "night": "/public/images/maps/003-night.png"
     },
     "name": "Chikipi",
     "price": 1000,
@@ -362,8 +362,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dc/Lifmunk_menu.png/",
     "key": "004",
     "maps": {
-      "day": "/maps/004-day.png",
-      "night": "/maps/004-night.png"
+      "day": "/public/images/maps/004-day.png",
+      "night": "/public/images/maps/004-night.png"
     },
     "name": "Lifmunk",
     "price": 1010,
@@ -488,8 +488,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d7/Foxparks_menu.png/",
     "key": "005",
     "maps": {
-      "day": "/maps/005-day.png",
-      "night": "/maps/005-night.png"
+      "day": "/public/images/maps/005-day.png",
+      "night": "/public/images/maps/005-night.png"
     },
     "name": "Foxparks",
     "price": 1040,
@@ -594,8 +594,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fuack_menu.png/",
     "key": "006",
     "maps": {
-      "day": "/maps/006-day.png",
-      "night": "/maps/006-night.png"
+      "day": "/public/images/maps/006-day.png",
+      "night": "/public/images/maps/006-night.png"
     },
     "name": "Fuack",
     "price": 1120,
@@ -710,8 +710,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/ce/Sparkit_menu.png/",
     "key": "007",
     "maps": {
-      "day": "/maps/007-day.png",
-      "night": "/maps/007-night.png"
+      "day": "/public/images/maps/007-day.png",
+      "night": "/public/images/maps/007-night.png"
     },
     "name": "Sparkit",
     "price": 1030,
@@ -826,8 +826,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Tanzee_menu.png/",
     "key": "008",
     "maps": {
-      "day": "/maps/008-day.png",
-      "night": "/maps/008-night.png"
+      "day": "/public/images/maps/008-day.png",
+      "night": "/public/images/maps/008-night.png"
     },
     "name": "Tanzee",
     "price": 1280,
@@ -952,8 +952,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Rooby_menu.png/",
     "key": "009",
     "maps": {
-      "day": "/maps/009-day.png",
-      "night": "/maps/009-night.png"
+      "day": "/public/images/maps/009-day.png",
+      "night": "/public/images/maps/009-night.png"
     },
     "name": "Rooby",
     "price": 2950,
@@ -1058,8 +1058,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/38/Pengullet_menu.png/",
     "key": "010",
     "maps": {
-      "day": "/maps/010-day.png",
-      "night": "/maps/010-night.png"
+      "day": "/public/images/maps/010-day.png",
+      "night": "/public/images/maps/010-night.png"
     },
     "name": "Pengullet",
     "price": 1080,
@@ -1179,8 +1179,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Penking_menu.png/",
     "key": "011",
     "maps": {
-      "day": "/maps/011-day.png",
-      "night": "/maps/011-night.png"
+      "day": "/public/images/maps/011-day.png",
+      "night": "/public/images/maps/011-night.png"
     },
     "name": "Penking",
     "price": 5410,
@@ -1305,8 +1305,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/52/Jolthog_menu.png/",
     "key": "012",
     "maps": {
-      "day": "/maps/012-day.png",
-      "night": "/maps/012-night.png"
+      "day": "/public/images/maps/012-day.png",
+      "night": "/public/images/maps/012-night.png"
     },
     "name": "Jolthog",
     "price": 1060,
@@ -1411,8 +1411,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2e/Gumoss_menu.png/",
     "key": "013",
     "maps": {
-      "day": "/maps/013-day.png",
-      "night": "/maps/013-night.png"
+      "day": "/public/images/maps/013-day.png",
+      "night": "/public/images/maps/013-night.png"
     },
     "name": "Gumoss",
     "price": 1310,
@@ -1517,8 +1517,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Vixy_menu.png/",
     "key": "014",
     "maps": {
-      "day": "/maps/014-day.png",
-      "night": "/maps/014-night.png"
+      "day": "/public/images/maps/014-day.png",
+      "night": "/public/images/maps/014-night.png"
     },
     "name": "Vixy",
     "price": 1000,
@@ -1628,7 +1628,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ef/Hoocrates_menu.png/",
     "key": "015",
     "maps": {
-      "night": "/maps/015-night.png"
+      "night": "/public/images/maps/015-night.png"
     },
     "name": "Hoocrates",
     "price": 1050,
@@ -1733,8 +1733,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Teafant_menu.png/",
     "key": "016",
     "maps": {
-      "day": "/maps/016-day.png",
-      "night": "/maps/016-night.png"
+      "day": "/public/images/maps/016-day.png",
+      "night": "/public/images/maps/016-night.png"
     },
     "name": "Teafant",
     "price": 1000,
@@ -1839,7 +1839,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Depresso_menu.png/",
     "key": "017",
     "maps": {
-      "night": "/maps/017-night.png"
+      "night": "/public/images/maps/017-night.png"
     },
     "name": "Depresso",
     "price": 1050,
@@ -1954,7 +1954,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a1/Cremis_menu.png/",
     "key": "018",
     "maps": {
-      "day": "/maps/018-day.png"
+      "day": "/public/images/maps/018-day.png"
     },
     "name": "Cremis",
     "price": 1420,
@@ -2064,7 +2064,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Daedream_menu.png/",
     "key": "019",
     "maps": {
-      "night": "/maps/019-night.png"
+      "night": "/public/images/maps/019-night.png"
     },
     "name": "Daedream",
     "price": 1330,
@@ -2179,8 +2179,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Rushoar_menu.png/",
     "key": "020",
     "maps": {
-      "day": "/maps/020-day.png",
-      "night": "/maps/020-night.png"
+      "day": "/public/images/maps/020-day.png",
+      "night": "/public/images/maps/020-night.png"
     },
     "name": "Rushoar",
     "price": 1680,
@@ -2285,7 +2285,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/55/Nox_menu.png/",
     "key": "021",
     "maps": {
-      "night": "/maps/021-night.png"
+      "night": "/public/images/maps/021-night.png"
     },
     "name": "Nox",
     "price": 1480,
@@ -2390,8 +2390,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/64/Fuddler_menu.png/",
     "key": "022",
     "maps": {
-      "day": "/maps/022-day.png",
-      "night": "/maps/022-night.png"
+      "day": "/public/images/maps/022-day.png",
+      "night": "/public/images/maps/022-night.png"
     },
     "name": "Fuddler",
     "price": 1360,
@@ -2717,8 +2717,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/95/Celaray_menu.png/",
     "key": "025",
     "maps": {
-      "day": "/maps/025-day.png",
-      "night": "/maps/025-night.png"
+      "day": "/public/images/maps/025-day.png",
+      "night": "/public/images/maps/025-night.png"
     },
     "name": "Celaray",
     "price": 2860,
@@ -2828,8 +2828,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Direhowl_menu.png/",
     "key": "026",
     "maps": {
-      "day": "/maps/026-day.png",
-      "night": "/maps/026-night.png"
+      "day": "/public/images/maps/026-day.png",
+      "night": "/public/images/maps/026-night.png"
     },
     "name": "Direhowl",
     "price": 1920,
@@ -2934,8 +2934,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Tocotoco_menu.png/",
     "key": "027",
     "maps": {
-      "day": "/maps/027-day.png",
-      "night": "/maps/027-night.png"
+      "day": "/public/images/maps/027-day.png",
+      "night": "/public/images/maps/027-night.png"
     },
     "name": "Tocotoco",
     "price": 1090,
@@ -3040,8 +3040,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Flopie_menu.png/",
     "key": "028",
     "maps": {
-      "day": "/maps/028-day.png",
-      "night": "/maps/028-night.png"
+      "day": "/public/images/maps/028-day.png",
+      "night": "/public/images/maps/028-night.png"
     },
     "name": "Flopie",
     "price": 1220,
@@ -3166,8 +3166,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3a/Mozzarina_menu.png/",
     "key": "029",
     "maps": {
-      "day": "/maps/029-day.png",
-      "night": "/maps/029-night.png"
+      "day": "/public/images/maps/029-day.png",
+      "night": "/public/images/maps/029-night.png"
     },
     "name": "Mozzarina",
     "price": 2620,
@@ -3272,8 +3272,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Bristla_menu.png/",
     "key": "030",
     "maps": {
-      "day": "/maps/030-day.png",
-      "night": "/maps/030-night.png"
+      "day": "/public/images/maps/030-day.png",
+      "night": "/public/images/maps/030-night.png"
     },
     "name": "Bristla",
     "price": 1140,
@@ -3398,8 +3398,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Gobfin_menu.png/",
     "key": "031",
     "maps": {
-      "day": "/maps/031-day.png",
-      "night": "/maps/031-night.png"
+      "day": "/public/images/maps/031-day.png",
+      "night": "/public/images/maps/031-night.png"
     },
     "name": "Gobfin",
     "price": 1840,
@@ -3514,8 +3514,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Hangyu_menu.png/",
     "key": "032",
     "maps": {
-      "day": "/maps/032-day.png",
-      "night": "/maps/032-night.png"
+      "day": "/public/images/maps/032-day.png",
+      "night": "/public/images/maps/032-night.png"
     },
     "name": "Hangyu",
     "price": 1020,
@@ -3630,8 +3630,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mossanda_menu.png/",
     "key": "033",
     "maps": {
-      "day": "/maps/033-day.png",
-      "night": "/maps/033-night.png"
+      "day": "/public/images/maps/033-day.png",
+      "night": "/public/images/maps/033-night.png"
     },
     "name": "Mossanda",
     "price": 6200,
@@ -3751,8 +3751,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/fa/Woolipop_menu.png/",
     "key": "034",
     "maps": {
-      "day": "/maps/034-day.png",
-      "night": "/maps/034-night.png"
+      "day": "/public/images/maps/034-day.png",
+      "night": "/public/images/maps/034-night.png"
     },
     "name": "Woolipop",
     "price": 1450,
@@ -3857,8 +3857,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Caprity_menu.png/",
     "key": "035",
     "maps": {
-      "day": "/maps/035-day.png",
-      "night": "/maps/035-night.png"
+      "day": "/public/images/maps/035-day.png",
+      "night": "/public/images/maps/035-night.png"
     },
     "name": "Caprity",
     "price": 2510,
@@ -3968,8 +3968,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7f/Melpaca_menu.png/",
     "key": "036",
     "maps": {
-      "day": "/maps/036-day.png",
-      "night": "/maps/036-night.png"
+      "day": "/public/images/maps/036-day.png",
+      "night": "/public/images/maps/036-night.png"
     },
     "name": "Melpaca",
     "price": 2740,
@@ -4074,8 +4074,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Eikthyrdeer_menu.png/",
     "key": "037",
     "maps": {
-      "day": "/maps/037-day.png",
-      "night": "/maps/037-night.png"
+      "day": "/public/images/maps/037-day.png",
+      "night": "/public/images/maps/037-night.png"
     },
     "name": "Eikthyrdeer",
     "price": 2620,
@@ -4180,8 +4180,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/34/Nitewing_menu.png/",
     "key": "038",
     "maps": {
-      "day": "/maps/038-day.png",
-      "night": "/maps/038-night.png"
+      "day": "/public/images/maps/038-day.png",
+      "night": "/public/images/maps/038-night.png"
     },
     "name": "Nitewing",
     "price": 6300,
@@ -4286,8 +4286,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Ribbuny_menu.png/",
     "key": "039",
     "maps": {
-      "day": "/maps/039-day.png",
-      "night": "/maps/039-night.png"
+      "day": "/public/images/maps/039-day.png",
+      "night": "/public/images/maps/039-night.png"
     },
     "name": "Ribbuny",
     "price": 1160,
@@ -4402,8 +4402,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Incineram_menu.png/",
     "key": "040",
     "maps": {
-      "day": "/maps/040-day.png",
-      "night": "/maps/040-night.png"
+      "day": "/public/images/maps/040-day.png",
+      "night": "/public/images/maps/040-night.png"
     },
     "name": "Incineram",
     "price": 4780,
@@ -4523,8 +4523,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Cinnamoth_menu.png/",
     "key": "041",
     "maps": {
-      "day": "/maps/041-day.png",
-      "night": "/maps/041-night.png"
+      "day": "/public/images/maps/041-day.png",
+      "night": "/public/images/maps/041-night.png"
     },
     "name": "Cinnamoth",
     "price": 5700,
@@ -4634,8 +4634,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f5/Arsox_menu.png/",
     "key": "042",
     "maps": {
-      "day": "/maps/042-day.png",
-      "night": "/maps/042-night.png"
+      "day": "/public/images/maps/042-day.png",
+      "night": "/public/images/maps/042-night.png"
     },
     "name": "Arsox",
     "price": 3520,
@@ -4745,8 +4745,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Dumud_menu.png/",
     "key": "043",
     "maps": {
-      "day": "/maps/043-day.png",
-      "night": "/maps/043-night.png"
+      "day": "/public/images/maps/043-day.png",
+      "night": "/public/images/maps/043-night.png"
     },
     "name": "Dumud",
     "price": 4690,
@@ -4804,7 +4804,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f6/Cawgnito_menu.png/",
     "key": "044",
     "maps": {
-      "night": "/maps/044-night.png"
+      "night": "/public/images/maps/044-night.png"
     },
     "name": "Cawgnito",
     "price": 1840,
@@ -4909,8 +4909,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Leezpunk_menu.png/",
     "key": "045",
     "maps": {
-      "day": "/maps/045-day.png",
-      "night": "/maps/045-night.png"
+      "day": "/public/images/maps/045-day.png",
+      "night": "/public/images/maps/045-night.png"
     },
     "name": "Leezpunk",
     "price": 1720,
@@ -5025,7 +5025,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Loupmoon_menu.png/",
     "key": "046",
     "maps": {
-      "night": "/maps/046-night.png"
+      "night": "/public/images/maps/046-night.png"
     },
     "name": "Loupmoon",
     "price": 2400,
@@ -5130,8 +5130,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Galeclaw_menu.png/",
     "key": "047",
     "maps": {
-      "day": "/maps/047-day.png",
-      "night": "/maps/047-night.png"
+      "day": "/public/images/maps/047-day.png",
+      "night": "/public/images/maps/047-night.png"
     },
     "name": "Galeclaw",
     "price": 2010,
@@ -5236,8 +5236,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bb/Robinquill_menu.png/",
     "key": "048",
     "maps": {
-      "day": "/maps/048-day.png",
-      "night": "/maps/048-night.png"
+      "day": "/public/images/maps/048-day.png",
+      "night": "/public/images/maps/048-night.png"
     },
     "name": "Robinquill",
     "price": 2050,
@@ -5367,8 +5367,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Gorirat_menu.png/",
     "key": "049",
     "maps": {
-      "day": "/maps/049-day.png",
-      "night": "/maps/049-night.png"
+      "day": "/public/images/maps/049-day.png",
+      "night": "/public/images/maps/049-night.png"
     },
     "name": "Gorirat",
     "price": 2010,
@@ -5483,8 +5483,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7b/Beegarde_menu.png/",
     "key": "050",
     "maps": {
-      "day": "/maps/050-day.png",
-      "night": "/maps/050-night.png"
+      "day": "/public/images/maps/050-day.png",
+      "night": "/public/images/maps/050-night.png"
     },
     "name": "Beegarde",
     "price": 1880,
@@ -5619,8 +5619,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Elizabee_menu.png/",
     "key": "051",
     "maps": {
-      "day": "/maps/051-day.png",
-      "night": "/maps/051-night.png"
+      "day": "/public/images/maps/051-day.png",
+      "night": "/public/images/maps/051-night.png"
     },
     "name": "Elizabee",
     "price": 6830,
@@ -5745,8 +5745,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c3/Grintale_menu.png/",
     "key": "052",
     "maps": {
-      "day": "/maps/052-day.png",
-      "night": "/maps/052-night.png"
+      "day": "/public/images/maps/052-day.png",
+      "night": "/public/images/maps/052-night.png"
     },
     "name": "Grintale",
     "price": 5510,
@@ -5851,8 +5851,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Swee_menu.png/",
     "key": "053",
     "maps": {
-      "day": "/maps/053-day.png",
-      "night": "/maps/053-night.png"
+      "day": "/public/images/maps/053-day.png",
+      "night": "/public/images/maps/053-night.png"
     },
     "name": "Swee",
     "price": 1180,
@@ -5962,8 +5962,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f3/Sweepa_menu.png/",
     "key": "054",
     "maps": {
-      "day": "/maps/054-day.png",
-      "night": "/maps/054-night.png"
+      "day": "/public/images/maps/054-day.png",
+      "night": "/public/images/maps/054-night.png"
     },
     "name": "Sweepa",
     "price": 6400,
@@ -6073,8 +6073,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Chillet_menu.png/",
     "key": "055",
     "maps": {
-      "day": "/maps/055-day.png",
-      "night": "/maps/055-night.png"
+      "day": "/public/images/maps/055-day.png",
+      "night": "/public/images/maps/055-night.png"
     },
     "name": "Chillet",
     "price": 3450,
@@ -6184,8 +6184,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Univolt_menu.png/",
     "key": "056",
     "maps": {
-      "day": "/maps/056-day.png",
-      "night": "/maps/056-night.png"
+      "day": "/public/images/maps/056-day.png",
+      "night": "/public/images/maps/056-night.png"
     },
     "name": "Univolt",
     "price": 4280,
@@ -6295,8 +6295,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Foxcicle_menu.png/",
     "key": "057",
     "maps": {
-      "day": "/maps/057-day.png",
-      "night": "/maps/057-night.png"
+      "day": "/public/images/maps/057-day.png",
+      "night": "/public/images/maps/057-night.png"
     },
     "name": "Foxcicle",
     "price": 3730,
@@ -6401,8 +6401,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Pyrin_menu.png/",
     "key": "058",
     "maps": {
-      "day": "/maps/058-day.png",
-      "night": "/maps/058-night.png"
+      "day": "/public/images/maps/058-day.png",
+      "night": "/public/images/maps/058-night.png"
     },
     "name": "Pyrin",
     "price": 6720,
@@ -6512,8 +6512,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c1/Reindrix_menu.png/",
     "key": "059",
     "maps": {
-      "day": "/maps/059-day.png",
-      "night": "/maps/059-night.png"
+      "day": "/public/images/maps/059-day.png",
+      "night": "/public/images/maps/059-night.png"
     },
     "name": "Reindrix",
     "price": 2800,
@@ -6623,8 +6623,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3f/Rayhound_menu.png/",
     "key": "060",
     "maps": {
-      "day": "/maps/060-day.png",
-      "night": "/maps/060-night.png"
+      "day": "/public/images/maps/060-day.png",
+      "night": "/public/images/maps/060-night.png"
     },
     "name": "Rayhound",
     "price": 3880,
@@ -6729,7 +6729,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6b/Kitsun_menu.png/",
     "key": "061",
     "maps": {
-      "night": "/maps/061-night.png"
+      "night": "/public/images/maps/061-night.png"
     },
     "name": "Kitsun",
     "price": 3170,
@@ -6834,8 +6834,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b0/Dazzi_menu.png/",
     "key": "062",
     "maps": {
-      "day": "/maps/062-day.png",
-      "night": "/maps/062-night.png"
+      "day": "/public/images/maps/062-day.png",
+      "night": "/public/images/maps/062-night.png"
     },
     "name": "Dazzi",
     "price": 1390,
@@ -7063,8 +7063,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_menu.png/",
     "key": "064",
     "maps": {
-      "day": "/maps/064-day.png",
-      "night": "/maps/064-night.png"
+      "day": "/public/images/maps/064-day.png",
+      "night": "/public/images/maps/064-night.png"
     },
     "name": "Dinossom",
     "price": 3240,
@@ -7174,8 +7174,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1d/Surfent_menu.png/",
     "key": "065",
     "maps": {
-      "day": "/maps/065-day.png",
-      "night": "/maps/065-night.png"
+      "day": "/public/images/maps/065-day.png",
+      "night": "/public/images/maps/065-night.png"
     },
     "name": "Surfent",
     "price": 5050,
@@ -7280,7 +7280,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Maraith_menu.png/",
     "key": "066",
     "maps": {
-      "night": "/maps/066-night.png"
+      "night": "/public/images/maps/066-night.png"
     },
     "name": "Maraith",
     "price": 1570,
@@ -7390,8 +7390,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Digtoise_menu.png/",
     "key": "067",
     "maps": {
-      "day": "/maps/067-day.png",
-      "night": "/maps/067-night.png"
+      "day": "/public/images/maps/067-day.png",
+      "night": "/public/images/maps/067-night.png"
     },
     "name": "Digtoise",
     "price": 2980,
@@ -7496,7 +7496,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f2/Tombat_menu.png/",
     "key": "068",
     "maps": {
-      "night": "/maps/068-night.png"
+      "night": "/public/images/maps/068-night.png"
     },
     "name": "Tombat",
     "price": 3810,
@@ -7611,7 +7611,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c8/Lovander_menu.png/",
     "key": "069",
     "maps": {
-      "night": "/maps/069-night.png"
+      "night": "/public/images/maps/069-night.png"
     },
     "name": "Lovander",
     "price": 2450,
@@ -7731,8 +7731,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/20/Flambelle_menu.png/",
     "key": "070",
     "maps": {
-      "day": "/maps/070-day.png",
-      "night": "/maps/070-night.png"
+      "day": "/public/images/maps/070-day.png",
+      "night": "/public/images/maps/070-night.png"
     },
     "name": "Flambelle",
     "price": 2500,
@@ -7852,8 +7852,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Vanwyrm_menu.png/",
     "key": "071",
     "maps": {
-      "day": "/maps/071-day.png",
-      "night": "/maps/071-night.png"
+      "day": "/public/images/maps/071-day.png",
+      "night": "/public/images/maps/071-night.png"
     },
     "name": "Vanwyrm",
     "price": 4360,
@@ -7963,8 +7963,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/73/Bushi_menu.png/",
     "key": "072",
     "maps": {
-      "day": "/maps/072-day.png",
-      "night": "/maps/072-night.png"
+      "day": "/public/images/maps/072-day.png",
+      "night": "/public/images/maps/072-night.png"
     },
     "name": "Bushi",
     "price": 4520,
@@ -8089,8 +8089,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Beakon_menu.png/",
     "key": "073",
     "maps": {
-      "day": "/maps/073-day.png",
-      "night": "/maps/073-night.png"
+      "day": "/public/images/maps/073-day.png",
+      "night": "/public/images/maps/073-night.png"
     },
     "name": "Beakon",
     "price": 7490,
@@ -8205,8 +8205,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dd/Ragnahawk_menu.png/",
     "key": "074",
     "maps": {
-      "day": "/maps/074-day.png",
-      "night": "/maps/074-night.png"
+      "day": "/public/images/maps/074-day.png",
+      "night": "/public/images/maps/074-night.png"
     },
     "name": "Ragnahawk",
     "price": 6720,
@@ -8316,7 +8316,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Katress_menu.png/",
     "key": "075",
     "maps": {
-      "night": "/maps/075-night.png"
+      "night": "/public/images/maps/075-night.png"
     },
     "name": "Katress",
     "price": 4120,
@@ -8431,8 +8431,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/85/Wixen_menu.png/",
     "key": "076",
     "maps": {
-      "day": "/maps/076-day.png",
-      "night": "/maps/076-night.png"
+      "day": "/public/images/maps/076-day.png",
+      "night": "/public/images/maps/076-night.png"
     },
     "name": "Wixen",
     "price": 1540,
@@ -8547,8 +8547,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/43/Verdash_menu.png/",
     "key": "077",
     "maps": {
-      "day": "/maps/077-day.png",
-      "night": "/maps/077-night.png"
+      "day": "/public/images/maps/077-day.png",
+      "night": "/public/images/maps/077-night.png"
     },
     "name": "Verdash",
     "price": 2200,
@@ -8673,8 +8673,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/24/Vaelet_menu.png/",
     "key": "078",
     "maps": {
-      "day": "/maps/078-day.png",
-      "night": "/maps/078-night.png"
+      "day": "/public/images/maps/078-day.png",
+      "night": "/public/images/maps/078-night.png"
     },
     "name": "Vaelet",
     "price": 1960,
@@ -8799,8 +8799,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/66/Sibelyx_menu.png/",
     "key": "079",
     "maps": {
-      "day": "/maps/079-day.png",
-      "night": "/maps/079-night.png"
+      "day": "/public/images/maps/079-day.png",
+      "night": "/public/images/maps/079-night.png"
     },
     "name": "Sibelyx",
     "price": 5900,
@@ -8915,8 +8915,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a6/Elphidran_menu.png/",
     "key": "080",
     "maps": {
-      "day": "/maps/080-day.png",
-      "night": "/maps/080-night.png"
+      "day": "/public/images/maps/080-day.png",
+      "night": "/public/images/maps/080-night.png"
     },
     "name": "Elphidran",
     "price": 5230,
@@ -9021,8 +9021,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1b/Kelpsea_menu.png/",
     "key": "081",
     "maps": {
-      "day": "/maps/081-day.png",
-      "night": "/maps/081-night.png"
+      "day": "/public/images/maps/081-day.png",
+      "night": "/public/images/maps/081-night.png"
     },
     "name": "Kelpsea",
     "price": 1260,
@@ -9127,8 +9127,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Azurobe_menu.png/",
     "key": "082",
     "maps": {
-      "day": "/maps/082-day.png",
-      "night": "/maps/082-night.png"
+      "day": "/public/images/maps/082-day.png",
+      "night": "/public/images/maps/082-night.png"
     },
     "name": "Azurobe",
     "price": 5600,
@@ -9233,8 +9233,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Cryolinx_menu.png/",
     "key": "083",
     "maps": {
-      "day": "/maps/083-day.png",
-      "night": "/maps/083-night.png"
+      "day": "/public/images/maps/083-day.png",
+      "night": "/public/images/maps/083-night.png"
     },
     "name": "Cryolinx",
     "price": 8440,
@@ -9349,8 +9349,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/33/Blazehowl_menu.png/",
     "key": "084",
     "maps": {
-      "day": "/maps/084-day.png",
-      "night": "/maps/084-night.png"
+      "day": "/public/images/maps/084-day.png",
+      "night": "/public/images/maps/084-night.png"
     },
     "name": "Blazehowl",
     "price": 4040,
@@ -9460,8 +9460,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Relaxaurus_menu.png/",
     "key": "085",
     "maps": {
-      "day": "/maps/085-day.png",
-      "night": "/maps/085-night.png"
+      "day": "/public/images/maps/085-day.png",
+      "night": "/public/images/maps/085-night.png"
     },
     "name": "Relaxaurus",
     "price": 10240,
@@ -9571,8 +9571,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bd/Broncherry_menu.png/",
     "key": "086",
     "maps": {
-      "day": "/maps/086-day.png",
-      "night": "/maps/086-night.png"
+      "day": "/public/images/maps/086-day.png",
+      "night": "/public/images/maps/086-night.png"
     },
     "name": "Broncherry",
     "price": 2920,
@@ -9677,8 +9677,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/28/Petallia_menu.png/",
     "key": "087",
     "maps": {
-      "day": "/maps/087-day.png",
-      "night": "/maps/087-night.png"
+      "day": "/public/images/maps/087-day.png",
+      "night": "/public/images/maps/087-night.png"
     },
     "name": "Petallia",
     "price": 3590,
@@ -9803,8 +9803,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Reptyro_menu.png/",
     "key": "088",
     "maps": {
-      "day": "/maps/088-day.png",
-      "night": "/maps/088-night.png"
+      "day": "/public/images/maps/088-day.png",
+      "night": "/public/images/maps/088-night.png"
     },
     "name": "Reptyro",
     "price": 6940,
@@ -9914,8 +9914,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Kingpaca_menu.png/",
     "key": "089",
     "maps": {
-      "day": "/maps/089-day.png",
-      "night": "/maps/089-night.png"
+      "day": "/public/images/maps/089-day.png",
+      "night": "/public/images/maps/089-night.png"
     },
     "name": "Kingpaca",
     "price": 5800,
@@ -10020,8 +10020,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Mammorest_menu.png/",
     "key": "090",
     "maps": {
-      "day": "/maps/090-day.png",
-      "night": "/maps/090-night.png"
+      "day": "/public/images/maps/090-day.png",
+      "night": "/public/images/maps/090-night.png"
     },
     "name": "Mammorest",
     "price": 9450,
@@ -10136,8 +10136,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Wumpo_menu.png/",
     "key": "091",
     "maps": {
-      "day": "/maps/091-day.png",
-      "night": "/maps/091-night.png"
+      "day": "/public/images/maps/091-day.png",
+      "night": "/public/images/maps/091-night.png"
     },
     "name": "Wumpo",
     "price": 5900,
@@ -10257,8 +10257,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Warsect_menu.png/",
     "key": "092",
     "maps": {
-      "day": "/maps/092-day.png",
-      "night": "/maps/092-night.png"
+      "day": "/public/images/maps/092-day.png",
+      "night": "/public/images/maps/092-night.png"
     },
     "name": "Warsect",
     "price": 6830,
@@ -10378,8 +10378,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Fenglope_menu.png/",
     "key": "093",
     "maps": {
-      "day": "/maps/093-day.png",
-      "night": "/maps/093-night.png"
+      "day": "/public/images/maps/093-day.png",
+      "night": "/public/images/maps/093-night.png"
     },
     "name": "Fenglope",
     "price": 2250,
@@ -10587,8 +10587,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Quivern_menu.png/",
     "key": "095",
     "maps": {
-      "day": "/maps/095-day.png",
-      "night": "/maps/095-night.png"
+      "day": "/public/images/maps/095-day.png",
+      "night": "/public/images/maps/095-night.png"
     },
     "name": "Quivern",
     "price": 6830,
@@ -10708,8 +10708,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ee/Blazamut_menu.png/",
     "key": "096",
     "maps": {
-      "day": "/maps/096-day.png",
-      "night": "/maps/096-night.png"
+      "day": "/public/images/maps/096-day.png",
+      "night": "/public/images/maps/096-night.png"
     },
     "name": "Blazamut",
     "price": 10520,
@@ -10819,7 +10819,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3c/Helzephyr_menu.png/",
     "key": "097",
     "maps": {
-      "night": "/maps/097-night.png"
+      "night": "/public/images/maps/097-night.png"
     },
     "name": "Helzephyr",
     "price": 7840,
@@ -10924,8 +10924,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d4/Astegon_menu.png/",
     "key": "098",
     "maps": {
-      "day": "/maps/098-day.png",
-      "night": "/maps/098-night.png"
+      "day": "/public/images/maps/098-day.png",
+      "night": "/public/images/maps/098-night.png"
     },
     "name": "Astegon",
     "price": 8200,
@@ -11035,8 +11035,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/57/Menasting_menu.png/",
     "key": "099",
     "maps": {
-      "day": "/maps/099-day.png",
-      "night": "/maps/099-night.png"
+      "day": "/public/images/maps/099-day.png",
+      "night": "/public/images/maps/099-night.png"
     },
     "name": "Menasting",
     "price": 7050,
@@ -11259,8 +11259,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/8e/Jormuntide_menu.png/",
     "key": "101",
     "maps": {
-      "day": "/maps/101-day.png",
-      "night": "/maps/101-night.png"
+      "day": "/public/images/maps/101-day.png",
+      "night": "/public/images/maps/101-night.png"
     },
     "name": "Jormuntide",
     "price": 9320,
@@ -11365,8 +11365,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b4/Suzaku_menu.png/",
     "key": "102",
     "maps": {
-      "day": "/maps/102-day.png",
-      "night": "/maps/102-night.png"
+      "day": "/public/images/maps/102-day.png",
+      "night": "/public/images/maps/102-night.png"
     },
     "name": "Suzaku",
     "price": 9840,
@@ -11471,8 +11471,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Grizzbolt_menu.png/",
     "key": "103",
     "maps": {
-      "day": "/maps/103-day.png",
-      "night": "/maps/103-night.png"
+      "day": "/public/images/maps/103-day.png",
+      "night": "/public/images/maps/103-night.png"
     },
     "name": "Grizzbolt",
     "price": 7720,
@@ -11592,8 +11592,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Lyleen_menu.png/",
     "key": "104",
     "maps": {
-      "day": "/maps/104-day.png",
-      "night": "/maps/104-night.png"
+      "day": "/public/images/maps/104-day.png",
+      "night": "/public/images/maps/104-night.png"
     },
     "name": "Lyleen",
     "price": 7160,
@@ -11713,8 +11713,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/99/Faleris_menu.png/",
     "key": "105",
     "maps": {
-      "day": "/maps/105-day.png",
-      "night": "/maps/105-night.png"
+      "day": "/public/images/maps/105-day.png",
+      "night": "/public/images/maps/105-night.png"
     },
     "name": "Faleris",
     "price": 6720,
@@ -11824,8 +11824,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6e/Orserk_menu.png/",
     "key": "106",
     "maps": {
-      "day": "/maps/106-day.png",
-      "night": "/maps/106-night.png"
+      "day": "/public/images/maps/106-day.png",
+      "night": "/public/images/maps/106-night.png"
     },
     "name": "Orserk",
     "price": 8320,
@@ -11940,8 +11940,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0c/Shadowbeak_menu.png/",
     "key": "107",
     "maps": {
-      "day": "/maps/107-day.png",
-      "night": "/maps/107-night.png"
+      "day": "/public/images/maps/107-day.png",
+      "night": "/public/images/maps/107-night.png"
     },
     "name": "Shadowbeak",
     "price": 9060,
@@ -12046,8 +12046,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Paladius_menu.png/",
     "key": "108",
     "maps": {
-      "day": "/maps/108-day.png",
-      "night": "/maps/108-night.png"
+      "day": "/public/images/maps/108-day.png",
+      "night": "/public/images/maps/108-night.png"
     },
     "name": "Paladius",
     "price": 8810,
@@ -12157,8 +12157,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Necromus_menu.png/",
     "key": "109",
     "maps": {
-      "day": "/maps/109-day.png",
-      "night": "/maps/109-night.png"
+      "day": "/public/images/maps/109-day.png",
+      "night": "/public/images/maps/109-night.png"
     },
     "name": "Necromus",
     "price": 8930,
@@ -12268,8 +12268,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Frostallion_menu.png/",
     "key": "110",
     "maps": {
-      "day": "/maps/110-day.png",
-      "night": "/maps/110-night.png"
+      "day": "/public/images/maps/110-day.png",
+      "night": "/public/images/maps/110-night.png"
     },
     "name": "Frostallion",
     "price": 8440,
@@ -12374,8 +12374,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e5/Jetragon_menu.png/",
     "key": "111",
     "maps": {
-      "day": "/maps/111-day.png",
-      "night": "/maps/111-night.png"
+      "day": "/public/images/maps/111-day.png",
+      "night": "/public/images/maps/111-night.png"
     },
     "name": "Jetragon",
     "price": 8680,
@@ -12583,8 +12583,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7a/Mau_Cryst_menu.png",
     "key": "024B",
     "maps": {
-      "day": "/maps/024B-day.png",
-      "night": "/maps/024B-night.png"
+      "day": "/public/images/maps/024B-day.png",
+      "night": "/public/images/maps/024B-night.png"
     },
     "name": "Mau Cryst",
     "price": 1010,
@@ -12694,7 +12694,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9c/Gobfin_Ignis_menu.png",
     "key": "031B",
     "maps": {
-      "day": "/maps/031B-day.png"
+      "day": "/public/images/maps/031B-day.png"
     },
     "name": "Gobfin Ignis",
     "price": 1800,
@@ -12809,7 +12809,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Hangyu_Cryst_menu.png",
     "key": "032B",
     "maps": {
-      "night": "/maps/032B-night.png"
+      "night": "/public/images/maps/032B-night.png"
     },
     "name": "Hangyu Cryst",
     "price": 1020,
@@ -12929,8 +12929,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/05/Mossanda_Lux_menu.png",
     "key": "033B",
     "maps": {
-      "day": "/maps/033B-day.png",
-      "night": "/maps/033B-night.png"
+      "day": "/public/images/maps/033B-day.png",
+      "night": "/public/images/maps/033B-night.png"
     },
     "name": "Mossanda Lux",
     "price": 6610,
@@ -13050,8 +13050,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Eikthyrdeer_Terra_menu.png",
     "key": "037B",
     "maps": {
-      "day": "/maps/037B-day.png",
-      "night": "/maps/037B-night.png"
+      "day": "/public/images/maps/037B-day.png",
+      "night": "/public/images/maps/037B-night.png"
     },
     "name": "Eikthyrdeer Terra",
     "price": 2680,
@@ -13156,8 +13156,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Incineram_Noct_menu.png",
     "key": "040B",
     "maps": {
-      "day": "/maps/040B-day.png",
-      "night": "/maps/040B-night.png"
+      "day": "/public/images/maps/040B-day.png",
+      "night": "/public/images/maps/040B-night.png"
     },
     "name": "Incineram Noct",
     "price": 4870,
@@ -13272,8 +13272,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Leezpunk_Ignis_menu.png",
     "key": "045B",
     "maps": {
-      "day": "/maps/045B-day.png",
-      "night": "/maps/045B-night.png"
+      "day": "/public/images/maps/045B-day.png",
+      "night": "/public/images/maps/045B-night.png"
     },
     "name": "Leezpunk Ignis",
     "price": 1640,
@@ -13393,8 +13393,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/45/Robinquill_Terra_menu.png",
     "key": "048B",
     "maps": {
-      "day": "/maps/048B-day.png",
-      "night": "/maps/048B-night.png"
+      "day": "/public/images/maps/048B-day.png",
+      "night": "/public/images/maps/048B-night.png"
     },
     "name": "Robinquill Terra",
     "price": 2150,
@@ -13519,7 +13519,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2b/Pyrin_Noct_menu.png",
     "key": "058B",
     "maps": {
-      "night": "/maps/058B-night.png"
+      "night": "/public/images/maps/058B-night.png"
     },
     "name": "Pyrin Noct",
     "price": 7270,
@@ -13629,8 +13629,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c7/Dinossom_Lux_menu.png",
     "key": "064B",
     "maps": {
-      "day": "/maps/064B-day.png",
-      "night": "/maps/064B-night.png"
+      "day": "/public/images/maps/064B-day.png",
+      "night": "/public/images/maps/064B-night.png"
     },
     "name": "Dinossom Lux",
     "price": 3380,
@@ -13740,8 +13740,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Surfent_Terra_menu.png",
     "key": "065B",
     "maps": {
-      "day": "/maps/065B-day.png",
-      "night": "/maps/065B-night.png"
+      "day": "/public/images/maps/065B-day.png",
+      "night": "/public/images/maps/065B-night.png"
     },
     "name": "Surfent Terra",
     "price": 5140,
@@ -13846,7 +13846,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Vanwyrm_Cryst_menu.png",
     "key": "071B",
     "maps": {
-      "night": "/maps/071B-night.png"
+      "night": "/public/images/maps/071B-night.png"
     },
     "name": "Vanwyrm Cryst",
     "price": 4610,
@@ -14064,8 +14064,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/ba/Kelpsea_Ignis_menu.png",
     "key": "081B",
     "maps": {
-      "day": "/maps/081B-day.png",
-      "night": "/maps/081B-night.png"
+      "day": "/public/images/maps/081B-day.png",
+      "night": "/public/images/maps/081B-night.png"
     },
     "name": "Kelpsea Ignis",
     "price": 1240,
@@ -14170,7 +14170,7 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5d/Blazehowl_Noct_menu.png",
     "key": "084B",
     "maps": {
-      "night": "/maps/084B-night.png"
+      "night": "/public/images/maps/084B-night.png"
     },
     "name": "Blazehowl Noct",
     "price": 4360,
@@ -14388,8 +14388,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Broncherry_Aqua_menu.png",
     "key": "086B",
     "maps": {
-      "day": "/maps/086B-day.png",
-      "night": "/maps/086B-night.png"
+      "day": "/public/images/maps/086B-day.png",
+      "night": "/public/images/maps/086B-night.png"
     },
     "name": "Broncherry Aqua",
     "price": 3110,
@@ -14602,8 +14602,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Kingpaca_Cryst_menu.png",
     "key": "089B",
     "maps": {
-      "day": "/maps/089B-day.png",
-      "night": "/maps/089B-night.png"
+      "day": "/public/images/maps/089B-day.png",
+      "night": "/public/images/maps/089B-night.png"
     },
     "name": "Kingpaca Cryst",
     "price": 6100,
@@ -14713,8 +14713,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mammorest_Cryst_menu.png",
     "key": "090B",
     "maps": {
-      "day": "/maps/090B-day.png",
-      "night": "/maps/090B-night.png"
+      "day": "/public/images/maps/090B-day.png",
+      "night": "/public/images/maps/090B-night.png"
     },
     "name": "Mammorest Cryst",
     "price": 9580,
@@ -14829,8 +14829,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Wumpo_Botan_menu.png",
     "key": "091B",
     "maps": {
-      "day": "/maps/091B-day.png",
-      "night": "/maps/091B-night.png"
+      "day": "/public/images/maps/091B-day.png",
+      "night": "/public/images/maps/091B-night.png"
     },
     "name": "Wumpo Botan",
     "price": 5700,
@@ -14950,8 +14950,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0d/Jormuntide_Ignis_menu.png",
     "key": "101B",
     "maps": {
-      "day": "/maps/101B-day.png",
-      "night": "/maps/101B-night.png"
+      "day": "/public/images/maps/101B-day.png",
+      "night": "/public/images/maps/101B-night.png"
     },
     "name": "Jormuntide Ignis",
     "price": 9500,
@@ -15159,8 +15159,8 @@
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/30/Lyleen_Noct_menu.png",
     "key": "104B",
     "maps": {
-      "day": "/maps/104B-day.png",
-      "night": "/maps/104B-night.png"
+      "day": "/public/images/maps/104B-day.png",
+      "night": "/public/images/maps/104B-night.png"
     },
     "name": "Lyleen Noct",
     "price": 7610,

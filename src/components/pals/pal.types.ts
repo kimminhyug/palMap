@@ -1,4 +1,4 @@
-interface IPalInfo {
+export interface IPalInfo {
   asset: string;
   aura: IAura;
   description: string;

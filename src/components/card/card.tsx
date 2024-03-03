@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Job } from './job/job';
+import { IPalInfo } from 'components/pals/pal.types';
 
 const JobNames = [
   'COOLING',
@@ -34,8 +35,8 @@ export const Card = ({ pal }: { pal: IPalInfo }): React.ReactElement => {
   const [flipStatus, setFlipStatus] = useState(false);
 
   const toggleFlip = () => {
-    console.log(flipStatus);
-    setFlipStatus((prev) => !prev);
+    // console.log(flipStatus);
+    // setFlipStatus((prev) => !prev);
   };
   return (
     <>
@@ -70,9 +71,9 @@ export const Card = ({ pal }: { pal: IPalInfo }): React.ReactElement => {
             </div>
           </div>
           {/* back */}
-          <div className={`info ${flipStatus ? 'show' : ''}`}>
+          {/* <div className={`info ${flipStatus ? 'show' : ''}`}>
             <div className="card-b">i am back</div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

@@ -1,5 +1,12 @@
 $elemental-water: #7bd3ea;
 $elemental-fire: #ff4545;
+$elemental-dark: rgb(156, 16, 74);
+$elemental-ground: rgb(143, 85, 35);
+$elemental-ice: rgb(24, 176, 192);
+$elemental-neutral: rgb(181, 148, 140);
+$elemental-electric: rgb(206, 165, 0);
+$elemental-grass: rgb(56, 240, 79);
+
 $card-container-min-width: 380px;
 $card-container-min-height: 660px;
 .d-f {
@@ -21,6 +28,25 @@ $card-container-min-height: 660px;
   }
   &.fire {
     box-shadow: 15px 15px 20px $elemental-fire, 15px 15px 0 5px $elemental-fire;
+  }
+  &.dark {
+    box-shadow: 15px 15px 20px $elemental-dark, 15px 15px 0 5px $elemental-dark;
+  }
+  &.ground {
+    box-shadow: 15px 15px 20px $elemental-ground, 15px 15px 0 5px $elemental-ground;
+  }
+  &.ice {
+    box-shadow: 15px 15px 20px $elemental-ice, 15px 15px 0 5px $elemental-ice;
+  }
+  &.neutral {
+    box-shadow: 15px 15px 20px $elemental-neutral, 15px 15px 0 5px $elemental-neutral;
+  }
+
+  &.electric {
+    box-shadow: 15px 15px 20px $elemental-electric, 15px 15px 0 5px $elemental-electric;
+  }
+  &.grass {
+    box-shadow: 15px 15px 20px $elemental-grass, 15px 15px 0 5px $elemental-grass;
   }
 
   // background: radial-gradient(#7BD3EA);
